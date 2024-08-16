@@ -1,0 +1,56 @@
+h1 {
+  font-size: "25px";
+  color: #F4511E;
+  font-weight: 700; 
+}
+p{
+  font-weight: 500;
+font-size: 20px;
+
+
+}
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  font-family: "roboto mono";
+  text-align: center;
+  display: block;
+  background-color: #004D4D;
+  color: #9E9E9E;
+  padding-top: 40px;
+}
+form {
+  width: 60vw;
+  max-width: 500px;
+  min-width: 300px;
+  margin: 0 auto;
+  padding-bottom: 3px;
+}
+.section{
+  vertical-align: middle;
+}
+.in-line{
+  background-color:#004D4D;
+  vertical-align: middle;
+  border: 2px solid #F4511E;
+  margin: 0 0.5em 0 0;
+}
+fieldset{
+  padding: 10px;
+}
+input[type=text]{
+  display: block;
+  align: center;
+  margin: auto;
+}
+select{
+  padding: padding 30px;
+  background-color: #004D4D;
+  color:#9E9E9E;
+  width: 250px;
+  border: 2px solid #F4511E;
+}
+.checkbox{
+}
+  
