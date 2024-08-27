@@ -6,8 +6,6 @@ h1 {
 p{
   font-weight: 500;
 font-size: 20px;
-
-
 }
 body {
   width: 100%;
@@ -41,7 +39,7 @@ fieldset{
 }
 input[type=text]{
   display: block;
-  align: center;
+  align-items: center;
   margin: auto;
 }
 select{
@@ -50,7 +48,5 @@ select{
   color:#9E9E9E;
   width: 250px;
   border: 2px solid #F4511E;
-}
-.checkbox{
 }
   
